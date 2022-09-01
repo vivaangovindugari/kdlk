@@ -1,0 +1,77 @@
+body
+{
+    background: lightsalmon;
+}
+h1
+{
+    background-color: fuchsia;
+}
+#show_sketch
+{
+    float: left;
+    color: firebrick;
+}
+
+#clearCanvas
+{
+    color: yellow;
+    border-color: tomato;
+}
+.copy_right_footer {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+ }
+ #stbd
+ {
+     font: bold;
+     font-size: 25px;
+     color: chartreuse;
+     font-family: 'Are You Serious', cursive;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Staatliches', cursive;
+     
+ }
+ #label
+ {
+     font: bold;
+     font-size: 25px;
+     color: chartreuse;
+     font-family: 'Are You Serious', cursive;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Staatliches', cursive;
+ }
+ #confidence
+ {
+     font: bold;
+     font-size: 25px;
+     color: chartreuse;
+     font-family: 'Are You Serious', cursive;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Staatliches', cursive;
+ }
+#span1
+{
+    font: bold;
+    font-size: 25px;
+    color: blue;
+    float: right;
+    font-family: 'Are You Serious', cursive;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Staatliches', cursive;
+    
+}
+#span2
+{
+    font: bold;
+    font-size: 25px;
+    color: yellow;
+    float: left;
+    font-family: 'Are You Serious', cursive;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Staatliches', cursive;
+}
